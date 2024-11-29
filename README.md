@@ -11,7 +11,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your/tanmayadmuthe/chess_like_game.git
+git clone https://github.com/tanmayadmuthe/chess_like_game.git
 cd local-chess-game
 Open the Project: Open index.html in your web browser to start playing the game.
 
